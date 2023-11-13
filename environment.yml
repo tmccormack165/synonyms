@@ -2,4 +2,5 @@ name: syn_env
 channels:
   - defaults
 dependencies:
-  - nltk=3.8.1
+  - nltk==3.8.1
+  - python==3.10
