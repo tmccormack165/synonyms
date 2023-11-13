@@ -1,0 +1,5 @@
+name: syn_env
+channels:
+  - defaults
+dependencies:
+  - nltk=3.8.1
