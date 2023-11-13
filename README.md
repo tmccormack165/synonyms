@@ -1,5 +1,5 @@
 # synonyms
-A python application that provides synonyms to user input
+A python application that provides synonyms to user input using the wordnet mode
 
 
 # Usage
