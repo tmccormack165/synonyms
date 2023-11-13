@@ -9,6 +9,9 @@ A python application that provides synonyms to user input
 TBD
 ```
 
+Check out my resource on beginning your development with Docker [https://docs.google.com/document/d/1sG1Jpr89SI3w_NSMukFLLJ8zFPvqGKkWZFm5DOYKd84/edit](url)
+
+
 ### Using Anaconda and YAML (Good Option)
 ```
 >> conda env create -f environment.yml
